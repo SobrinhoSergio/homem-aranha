@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+<h1> Projeto React-Spider-man 🕷🕸 </h1>
+<p><b>Landing page do jogo Marvel's Spider-man Miles Morales, com app para incrição</b></p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+<a href="https://csb-4zrj5-1gvtddp8l-leehsanttana.vercel.app/"> Visite o site! </a>
 
-## Available Scripts
+<h4> 
+	Projeto Concluído ✅
+</h4>
 
-In the project directory, you can run:
+<ul>
+ <li><a href="#sobre">Sobre</a></li>
+ <li><a href="#tecnologias">Técnologias usadas</a></li> 
+ <li><a href="#sessao">sessão da página</a></li>
+ <li><a href="#autor">Autor</a></li> 
+</ul>
 
-### `npm start`
+<h2 id="sobre">Sobre</h2>
+<p>Esse foi um projeto pessoal que a ideia surgiu do nada. Com a ideia de praticar meus aprendizados em React, criei um site do jogo do homem-aranha (personagem favorito da Marvel) no qual possui um Slideshow com todos os possíveis trajes a serem usados no jogo, informações do jogo e também uma aba de inscrição com multietapas.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>O projeto não está Totalmente responsivo, atendendo apenas a smartphones e desktops.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2 id="tecnologias">Técnologias Usadas:</h2>
 
-### `npm test`
+<p> Todo o projeto foi feito do zero utilizando a framework React:</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+</p>
 
-### `npm run build`
+<h2 id="sessao">Sessões do Projeto:</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>A página apresenta apenas as sessões: Home, O Universo, Trajes e Inscreva-se, além da sessão de formulário.<p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3>Sessão Home:</h3>
+<img src="https://i.imgur.com/FLZUUA7.jpg" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h3>Sessão O Universo:</h3>
+<img src="https://i.imgur.com/qdRHffd.jpg" />
 
-### `npm run eject`
+<h3>Sessão Trajes:</h3>
+<img src="https://i.imgur.com/5u071IJ.jpg" />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h3>Sessão Inscreva-se:</h3>
+<img src="https://i.imgur.com/pG7EJmD.jpg" />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3>Etapa 1 Formulário:</h3>
+<img src="https://i.imgur.com/SsIsjN2.jpg" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h3>Etapa 2 Formulário:</h3>
+<img src="https://i.imgur.com/ezvxsvQ.jpg" />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h3>Etapa 3 Formulário:</h3>
+<img src="https://i.imgur.com/g120wnA.jpg" />
 
-## Learn More
+<h2 id="autor">Autor do Projeto:</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h3>Sérgio de Souza Lima Sobrinho (EU 😂)</h3>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p> 
+  <a href="https://www.linkedin.com/in/sobrinhosergio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://github.com/SobrinhoSergio">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
+</p>
 
-### Code Splitting
+<ul>
+  <li>Front-End Designer</li>
+  <li>UX/UI Designer</li>
+</ul>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<a href="" target="_blanck"><b>Meu Portfólio</b></a>
 
-### Analyzing the Bundle Size
+<h2 id="consideracoes">Conseiderações Finais:</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p>Estou muito feliz com a minha evolução e com o resultado deste projeto. O que era antes um pesadelo para mim, hoje começo a mostrar ciência na ferramente. O React já não me assusta mais e pretendo evoulir cada vez mais!!<p/>
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p><b>Esse projeto é livre, podendo pegá-lo e utilizá-lo em seus projetos e trabalhos <b></p>
