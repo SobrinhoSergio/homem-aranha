@@ -15,8 +15,8 @@ const MainSection = () => {
         </p>
         <small>
           Projeto desenvolvido por{" "}
-          <a href="https://leehsanttana.github.io/personal-portfolio/">
-            Leonam Santana
+          <a href="https://github.com/SobrinhoSergio">
+            Sérgio Sobrinho
           </a>
         </small>
       </div>
