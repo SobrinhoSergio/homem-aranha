@@ -10,7 +10,7 @@ const MainSection = () => {
     <S.Footer>
       <div>
         <p>
-          © 2021 Sony Interactive Entertainment LLC. Todos os direitos
+          © 2023 Sony Interactive Entertainment LLC. Todos os direitos
           reservados ©
         </p>
         <small>
